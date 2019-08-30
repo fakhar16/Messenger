@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412109159022",
+    "firebase_url": "https://messengerapp-f216b.firebaseio.com",
+    "project_id": "messengerapp-f216b",
+    "storage_bucket": "messengerapp-f216b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412109159022:android:5e5668b82d9da191",
+        "android_client_info": {
+          "package_name": "com.fakhar.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412109159022-1cqd71orqg9mdjdhveinq7evi49lpl1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fakhar.messenger",
+            "certificate_hash": "18b23722a363279d0f6a5af9eb9e96f6c4802ec8"
+          }
+        },
+        {
+          "client_id": "412109159022-51ebh6v6lubqvnloigv4lnpe4jorpkqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkPnbq4IMuUu5OdE0x7mI89QF_dvvIA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412109159022-51ebh6v6lubqvnloigv4lnpe4jorpkqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
